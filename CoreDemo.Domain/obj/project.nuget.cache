@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q2yk9TcRJ7JF2cyGOb6Dxys04AFoLraSlCC420WHnrYf3r0R8123/mQJQvtKcVu7MhwAKYNx+9QjM2diiS4UdQ==",
+  "success": true,
+  "projectFilePath": "D:\\源代码\\CoreDemo\\CoreDemo.Domain\\CoreDemo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sqy\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

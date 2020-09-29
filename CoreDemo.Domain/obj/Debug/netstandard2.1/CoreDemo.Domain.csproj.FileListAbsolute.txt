@@ -1,0 +1,9 @@
+D:\练习\CoreDemo\CoreDemo.Domain\bin\Debug\netstandard2.1\CoreDemo.Domain.deps.json
+D:\练习\CoreDemo\CoreDemo.Domain\bin\Debug\netstandard2.1\CoreDemo.Domain.dll
+D:\练习\CoreDemo\CoreDemo.Domain\bin\Debug\netstandard2.1\CoreDemo.Domain.pdb
+D:\练习\CoreDemo\CoreDemo.Domain\obj\Debug\netstandard2.1\CoreDemo.Domain.AssemblyInfoInputs.cache
+D:\练习\CoreDemo\CoreDemo.Domain\obj\Debug\netstandard2.1\CoreDemo.Domain.AssemblyInfo.cs
+D:\练习\CoreDemo\CoreDemo.Domain\obj\Debug\netstandard2.1\CoreDemo.Domain.csproj.CoreCompileInputs.cache
+D:\练习\CoreDemo\CoreDemo.Domain\obj\Debug\netstandard2.1\CoreDemo.Domain.dll
+D:\练习\CoreDemo\CoreDemo.Domain\obj\Debug\netstandard2.1\CoreDemo.Domain.pdb
+D:\练习\CoreDemo\CoreDemo.Domain\obj\Debug\netstandard2.1\CoreDemo.Domain.csprojAssemblyReference.cache

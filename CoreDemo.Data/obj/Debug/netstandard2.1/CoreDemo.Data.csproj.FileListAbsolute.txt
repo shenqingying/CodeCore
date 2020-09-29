@@ -1,0 +1,12 @@
+D:\练习\CoreDemo\CoreDemo.Data\bin\Debug\netstandard2.1\CoreDemo.Data.deps.json
+D:\练习\CoreDemo\CoreDemo.Data\bin\Debug\netstandard2.1\CoreDemo.Data.dll
+D:\练习\CoreDemo\CoreDemo.Data\bin\Debug\netstandard2.1\CoreDemo.Data.pdb
+D:\练习\CoreDemo\CoreDemo.Data\bin\Debug\netstandard2.1\CoreDemo.Domain.dll
+D:\练习\CoreDemo\CoreDemo.Data\bin\Debug\netstandard2.1\CoreDemo.Domain.pdb
+D:\练习\CoreDemo\CoreDemo.Data\obj\Debug\netstandard2.1\CoreDemo.Data.csprojAssemblyReference.cache
+D:\练习\CoreDemo\CoreDemo.Data\obj\Debug\netstandard2.1\CoreDemo.Data.AssemblyInfoInputs.cache
+D:\练习\CoreDemo\CoreDemo.Data\obj\Debug\netstandard2.1\CoreDemo.Data.AssemblyInfo.cs
+D:\练习\CoreDemo\CoreDemo.Data\obj\Debug\netstandard2.1\CoreDemo.Data.csproj.CopyComplete
+D:\练习\CoreDemo\CoreDemo.Data\obj\Debug\netstandard2.1\CoreDemo.Data.dll
+D:\练习\CoreDemo\CoreDemo.Data\obj\Debug\netstandard2.1\CoreDemo.Data.pdb
+D:\练习\CoreDemo\CoreDemo.Data\obj\Debug\netstandard2.1\CoreDemo.Data.csproj.CoreCompileInputs.cache
